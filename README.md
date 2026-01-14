@@ -1,8 +1,13 @@
-# 08-Others
+# 大模型原理与技术作业
+
+* BX2524305-赵春志-08-Others-基于认知和MRI对齐的视觉语言预训练脑疾病诊断模型
+
+
+## 08-Others
 This is for submitting LMM course assignments.
 
 
-## Run
+## Demo
 Prepare the necessary brain imaging data.
 
 * "python -m torch.distributed.run --nproc_per_node=8 run_homework_SMRI_BLIP2_train.py"
